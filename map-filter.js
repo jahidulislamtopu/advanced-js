@@ -20,4 +20,4 @@ const result = numbers.map(x => x * x);
  console.log(result);
 
 const bigger = numbers.filter( x => x < 5);
-console.log(bigger);
+console.log(bigger)
